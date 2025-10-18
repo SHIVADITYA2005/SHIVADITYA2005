@@ -30,11 +30,14 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [debug-lab](https://github.com/SHIVADITYA2005/debug-lab) | Collection of tricky C bugs & fixes | C, GDB |
-| [py-scripts](https://github.com/SHIVADITYA2005/py-scripts) | Handy Python automation scripts | Python, Shell |
-| [cloud-vm-checker](https://github.com/SHIVADITYA2005/cloud-vm-checker) | CLI tool for VM health & firewall checks | Bash, GCP CLI |
+| [PICKLER](https://github.com/SHIVADITYA2005/PICKLER) | A simple Python GUI to pickle and unpickle files | Python, Tkinter |
+| [Marks-converter](https://github.com/SHIVADITYA2005/Marks-converter) | Tool to convert marks (C implementation) | C |
+| [OOP](https://github.com/SHIVADITYA2005/OOP) | Object-Oriented Programming practice and examples | C++ |
+| [Ripple-Carry-Adder](https://github.com/SHIVADITYA2005/Ripple-Carry-Adder) | Simulation of an 8-bit Ripple Carry Adder using linked nodes & bitwise ops (COA concept) | C++ |
 
 *(More projects coming soon—each with a story, a README, and a lesson learned!)*
+
+
 
 ---
 
