@@ -26,7 +26,24 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
+### 📚 Libraries Used
 
+- **C** ⚙️  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>  
+  `stdio.h`, `stdlib.h`, `math.h`, `string.h`, `time.h`
+
+- **C++** 💻  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>  
+  `iostream`, `vector`, `map`, `thread`, `mutex`, `fstream`
+
+- **Python** 🐍  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40"/>  
+  `numpy`, `pandas`, `matplotlib`, `tkinter`, `pickle`, `socket`, `json`
+
+---
 ## 📂 Featured Projects
 
 | Project | Description | Tech |
