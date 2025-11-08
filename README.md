@@ -46,10 +46,10 @@
 
 - **java**
 
- ![JDBC](https://nehajain216.github.io/img/jdbc.png)
- ![AWT](https://easyconcept.in/wp-content/uploads/2023/10/AWT-in-Java-300x277.png)
- ![Swing](https://runestone.academy/ns/books/published/javajavajava/external/chptr13/p472f1.png)
- ![java.util](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrfKdIeqy6gLE8triWRYkEbO4FruoDLad0ll1HWGRwpRvgi68tTe9or-joA09xNy0pRN2yjs0SV24mlFF1QofT8bZItABgQFlZlctwKe0qGHO-E74Paypigyu_84dQGoprK1VwL7rSDPE/s1600/Java+Util+Package+Tutorial.png)
+ ![JDBC](https://img.shields.io/badge/JDBC-Connector-007396?style=flat&logo=java&logoColor=white)
+![AWT](https://img.shields.io/badge/AWT-GUI-007396?style=flat&logo=java&logoColor=white)
+![Swing](https://img.shields.io/badge/Swing-UI-007396?style=flat&logo=java&logoColor=white)
+![java.util](https://img.shields.io/badge/java.util-Collections-007396?style=flat&logo=java&logoColor=white)
 
 
 
