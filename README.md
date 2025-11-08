@@ -13,6 +13,14 @@
 
 <p align="center"><i>“Curiosity-driven. Detail-obsessed. Always learning.”</i></p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00C9FF&width=435&lines=Building+systems.;Breaking+limits.;Learning+endlessly.;Debugging+like+a+pro." alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SHIVADITYA2005&label=Visitors&color=0e75b6&style=flat" alt="profile views"/>
+</p>
+
 ---
 
 ## 🚀 About Me
@@ -68,18 +76,12 @@
 ---
 
 ## 📊 GitHub Snapshot
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SHIVADITYA2005&show_icons=true&theme=tokyonight&hide_border=true" alt="github-stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHIVADITYA2005&layout=compact&theme=tokyonight&hide_border=true" alt="top-langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SHIVADITYA2005&show_icons=true&theme=tokyonight&hide_border=true" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHIVADITYA2005&layout=compact&theme=tokyonight&hide_border=true" height="180em"/>
 </p>
 
-**Language breakdown (based on your repos):**
-- **C** — ~54.5%  
-- **C++** — ~18.2%  
-- **Python** — ~9.1%  
-- **Java** — ~9.1%  
-- **Other / Config** — ~9.1%
 
 ---
 
