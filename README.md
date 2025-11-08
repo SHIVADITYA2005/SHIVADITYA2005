@@ -19,6 +19,7 @@
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-121011?style=flat&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -42,6 +43,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40"/>  
   `numpy`, `pandas`, `matplotlib`, `tkinter`, `pickle`, `socket`, `json`
+
+- **java**
+
+ ![JDBC](https://nehajain216.github.io/img/jdbc.png)
+ ![AWT](https://easyconcept.in/wp-content/uploads/2023/10/AWT-in-Java-300x277.png)
+ ![Swing](https://runestone.academy/ns/books/published/javajavajava/external/chptr13/p472f1.png)
+ ![java.util](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrfKdIeqy6gLE8triWRYkEbO4FruoDLad0ll1HWGRwpRvgi68tTe9or-joA09xNy0pRN2yjs0SV24mlFF1QofT8bZItABgQFlZlctwKe0qGHO-E74Paypigyu_84dQGoprK1VwL7rSDPE/s1600/Java+Util+Package+Tutorial.png)
+
+
 
 ---
 ## 📂 Featured Projects
