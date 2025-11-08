@@ -27,31 +27,78 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
-### 📚 Libraries Used
+## 📚 Libraries & Technologies Used  
 
-- **C** ⚙️  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>  
-  `stdio.h`, `stdlib.h`, `math.h`, `string.h`, `time.h`
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
-- **C++** 💻  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>  
-  `iostream`, `vector`, `map`, `thread`, `mutex`, `fstream`
+### 🧩 **C**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50"/>
+</p>
 
-- **Python** 🐍  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40"/>  
-  `numpy`, `pandas`, `matplotlib`, `tkinter`, `pickle`, `socket`, `json`
+<p align="left">
+  <img src="https://img.shields.io/badge/stdio.h-blue?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/stdlib.h-blue?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/math.h-blue?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/string.h-blue?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/time.h-blue?style=for-the-badge&logo=c&logoColor=white"/>
+</p>
 
-- **java**
+---
 
- ![JDBC](https://img.shields.io/badge/JDBC-Connector-007396?style=flat&logo=java&logoColor=white)
-![AWT](https://img.shields.io/badge/AWT-GUI-007396?style=flat&logo=java&logoColor=white)
-![Swing](https://img.shields.io/badge/Swing-UI-007396?style=flat&logo=java&logoColor=white)
-![java.util](https://img.shields.io/badge/java.util-Collections-007396?style=flat&logo=java&logoColor=white)
+### ⚙️ **C++**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/>
+</p>
 
+<p align="left">
+  <img src="https://img.shields.io/badge/iostream-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/vector-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/map-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/thread-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/mutex-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/fstream-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+</p>
 
+---
+
+### 🐍 **Python**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50" height="50"/>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/numpy-%230076D6.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/matplotlib-%23FFDD00.svg?style=for-the-badge&logo=python&logoColor=black"/>
+  <img src="https://img.shields.io/badge/tkinter-%230077B5.svg?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/socket-%230A66C2.svg?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/json-%23E34F26.svg?style=for-the-badge&logo=json&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pickle-%230081CB.svg?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+---
+
+### ☕ **Java**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/JDBC-Connector-FF6F00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWT-GUI-FF6F00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swing-UI-FF6F00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/java.util-Collections-FF6F00?style=for-the-badge&logo=java&logoColor=white"/>
+</p>
+
+---
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 ---
 ## 📂 Featured Projects
