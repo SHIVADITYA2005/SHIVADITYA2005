@@ -1,6 +1,6 @@
 # 👋 Hi, I'm SHIVADITYA
 
-**🎓 B.Tech CSE (2nd Year)** • 🧑‍💻 Debugging Enthusiast • ⚡ Systems Explorer
+**🎓 B.Tech CSE (2nd Year)** • 🧑‍💻 Debugging Enthusiast • ⚡ Systems Explorer • 🔬 Research Enthusiast
 
 [![typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00BFFF&background=0a0a0a00&width=680&lines=Curiosity-driven.;Detail-obsessed.;Always+learning.)](https://github.com/SHIVADITYA2005)
 
@@ -14,17 +14,17 @@
 
 ## 🚀 About Me
 
-* 🔍 Passionate about algorithms, systems internals, and workflow optimization.
+* 🔍 Passionate about algorithms, systems internals, and applied research.
 * 🛠 Skilled at debugging across platforms — from `C` segfaults and Python quirks to VM configs.
 * 🌱 Building a clean GitHub portfolio: clear READMEs, demos, and lessons learned.
-* 💡 Exploring processor architectures, database internals, and machine learning.
+* 💡 Exploring processor architectures, database internals, and machine learning models.
 * 📍 SRM NCR Campus, Modinagar, Ghaziabad • ✉️ [sz5985@srmist.edu.in](mailto:sz5985@srmist.edu.in)
 
 ---
 
 ## 🧰 Tech Stack & Tools
 
-[![tech icons](https://skillicons.dev/icons?i=c,cpp,java,python,bash,git,github,linux,vscode&perline=8)](https://github.com/SHIVADITYA2005)
+[![tech icons](https://skillicons.dev/icons?i=c,cpp,java,python,matlab,sklearn,bash,git,github,linux,vscode&perline=11)](https://github.com/SHIVADITYA2005)
 
 ---
 
@@ -47,7 +47,7 @@
 ## 🎯 Highlights & What I Bring
 
 * **Strong debugging mindset** — I break problems down until I find the root cause.
-* **Systems thinker** — Moving beyond basic scripts to understand databases, networks, and ML architectures.
+* **Systems & Research thinker** — Moving beyond basic scripts to understand databases, networks, and ML architectures.
 * **Fast learner** — I pick up complex concepts (learned indexing, neural networks) and convert them to working code.
 * **Team-ready** — Disciplined about version control, documentation, and continuous learning.
 
