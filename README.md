@@ -1,108 +1,69 @@
-<!-- =============================== -->
-<!--  README — SHIVADITYA (Profile)  -->
-<!-- =============================== -->
+# 👋 Hi, I'm SHIVADITYA
 
-<h1 align="center">👋 Hi, I'm <span style="color:#00BFFF">SHIVADITYA</span></h1>
-<p align="center">
-  <b>🎓 B.Tech CSE (2nd Year)</b> • 🧑‍💻 Debugging Enthusiast • ⚡ Systems Explorer
-</p>
+**🎓 B.Tech CSE (2nd Year)** • 🧑‍💻 Debugging Enthusiast • ⚡ Systems Explorer
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00BFFF&background=0a0a0a00&width=680&lines=Curiosity-driven.;Detail-obsessed.;Always+learning." alt="typing"/>
-</p>
+[![typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00BFFF&background=0a0a0a00&width=680&lines=Curiosity-driven.;Detail-obsessed.;Always+learning.)](https://github.com/SHIVADITYA2005)
 
-<p align="center"><i>“Curiosity-driven. Detail-obsessed. Always learning.”</i></p>
+*“Curiosity-driven. Detail-obsessed. Always learning.”*
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00C9FF&width=435&lines=Building+systems.;Breaking+limits.;Learning+endlessly.;Debugging+like+a+pro." alt="Typing SVG" />
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00C9FF&width=435&lines=Building+systems.;Breaking+limits.;Learning+endlessly.;Debugging+like+a+pro.)](https://github.com/SHIVADITYA2005)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SHIVADITYA2005&label=Visitors&color=0e75b6&style=flat" alt="profile views"/>
-</p>
+[![profile views](https://komarev.com/ghpvc/?username=SHIVADITYA2005&label=Visitors&color=0e75b6&style=flat)](https://github.com/SHIVADITYA2005)
 
 ---
 
 ## 🚀 About Me
-- 🔍 Passionate about algorithms, systems internals, and workflow optimisation.  
-- 🛠 Skilled at debugging across platforms — from `C` segfaults and Python quirks to VM configs.  
-- 🌱 Building a clean GitHub portfolio: clear READMEs, demos, and lessons learned.  
-- 💡 Exploring processor architectures, instruction sets, and hardware security.  
-- 📍 SRM NCR Campus, Modinagar, Ghaziabad • ✉️ <a href="mailto:sz5985@srmist.edu.in">sz5985@srmist.edu.in</a>
+
+* 🔍 Passionate about algorithms, systems internals, and workflow optimization.
+* 🛠 Skilled at debugging across platforms — from `C` segfaults and Python quirks to VM configs.
+* 🌱 Building a clean GitHub portfolio: clear READMEs, demos, and lessons learned.
+* 💡 Exploring processor architectures, database internals, and machine learning.
+* 📍 SRM NCR Campus, Modinagar, Ghaziabad • ✉️ [sz5985@srmist.edu.in](mailto:sz5985@srmist.edu.in)
 
 ---
 
 ## 🧰 Tech Stack & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,bash,git,github,linux,vscode&perline=8" alt="tech icons"/>
-</p>
 
----
-
-## 📚 Libraries & Quick Tools (high level)
-> Full lists live in each project README.
-
-**C**
-- `stdio.h`, `stdlib.h`, `string.h`, `math.h`, `time.h`
-
-**C++**
-- `iostream`, `vector`, `map`, `thread`, `mutex`, `fstream`
-
-**Python**
-- `numpy`, `pandas`, `matplotlib`, `tkinter`, `pickle`, `socket`, `json`
-
-**Java**
-- `JDBC`, `AWT`, `Swing`, `java.util`
+[![tech icons](https://skillicons.dev/icons?i=c,cpp,java,python,bash,git,github,linux,vscode&perline=8)](https://github.com/SHIVADITYA2005)
 
 ---
 
 ## 📂 Featured Projects
-> Each project contains a README with how-to-run, sample I/O, and lessons learned.
 
-| Project | What it is | Tech |
-|---|---|---:|
-| **config** | Config files for my GitHub profile / badges & workflow snippets | config |
-| **School_Management_system** | Simple school management system example | Java |
-| **Ripple-Carry-Adder** | 8-bit R-C Adder simulation using linked nodes & bitwise ops (COA concept) | C++ |
-| **Marks-converter** | Convert marks from one scale to another (terminal C tool) | C |
-| **PICKLER** | GUI to pickle / unpickle files — mini utility with screenshots | Python, Tkinter |
-| **OOP** | OOP practice projects & examples | C++ |
-| **Fibonaaci-series** | Basic algorithms & practice cases | C |
-| **Simple-intrest** | Financial calculation examples (C) | C |
-| **Herons-Formula** | Geometry helper — Heron's formula in C | C |
-| **Gross-Salary** | Payroll micro examples (C) | C |
-| **PIN** | Small practice programs for learning C | C |
+> Focusing on systems architecture, machine learning, and core computer science.
+
+| Project | What it is | Tech Focus |
+| :--- | :--- | :--- |
+| **[LIDAR-DB](https://github.com/SHIVADITYA2005/LIDAR-DB-Learned-Indexing-for-DAta-Retrieval-in-DataBases.)** | **Learned Indexing for Data Retrieval** — Exploring the replacement of traditional B-Trees with ML models for faster database querying. | Database Internals, Systems |
+| **[SpineChain](https://github.com/SHIVADITYA2005/SpineChain)** | **Distributed Ledger** — A custom blockchain implementation exploring peer-to-peer networking and cryptography. | Blockchain, Distributed Systems |
+| **[FruitLens](https://github.com/SHIVADITYA2005/FruitLens)** | **Computer Vision Application** — Image classification and analysis pipeline. | Python, Machine Learning |
+| **[MNIST-Neural-Scribe](https://github.com/SHIVADITYA2005/MNIST-Neural-Scribe)** | **Neural Network** — Handwritten digit recognition model built from the ground up. | AI/ML, Neural Networks |
+| **[Sorting-Algo](https://github.com/SHIVADITYA2005/Sorting-Algo)** | **Algorithm Implementation** — Clean, optimized implementations of core sorting algorithms. | Core CS, DSA |
+| **[PICKLER](https://github.com/SHIVADITYA2005/PICKLER)** | **Utility GUI** — A simple Python GUI application to pickle and unpickle files. | Python, Tkinter |
+| **[Ripple-Carry-Adder](https://github.com/SHIVADITYA2005/Ripple-Carry-Adder)** | **Hardware Simulation** — 8-bit R-C Adder simulation using linked nodes & bitwise operations. | C++, COA |
+
+---
+
+## 🎯 Highlights & What I Bring
+
+* **Strong debugging mindset** — I break problems down until I find the root cause.
+* **Systems thinker** — Moving beyond basic scripts to understand databases, networks, and ML architectures.
+* **Fast learner** — I pick up complex concepts (learned indexing, neural networks) and convert them to working code.
+* **Team-ready** — Disciplined about version control, documentation, and continuous learning.
 
 ---
 
 ## 📊 GitHub Snapshot
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SHIVADITYA2005&show_icons=true&theme=tokyonight&hide_border=true" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHIVADITYA2005&layout=compact&theme=tokyonight&hide_border=true" height="180em"/>
-</p>
-
-
----
-
-## 🎯 Highlights & What I Bring
-- Strong debugging mindset — I break problems down until I find the root cause.  
-- Clean code & documentation — every repo includes an explanation, running steps, and takeaways.  
-- Fast learner — I pick up low-level concepts (assembly, CPU behaviour) and convert them to working code.  
-- Team-ready — disciplined about deadlines, version control, and code reviews.
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SHIVADITYA2005&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/SHIVADITYA2005)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SHIVADITYA2005&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/SHIVADITYA2005)
 
 ---
 
 ## 🌐 Connect with me
-<p align="center">
-  <a href="https://github.com/SHIVADITYA2005"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:sz5985@srmist.edu.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
 
----
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SHIVADITYA2005)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sz5985@srmist.edu.in)
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" alt="footer"/>
-</p>
-
+[![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)](https://github.com/SHIVADITYA2005)
