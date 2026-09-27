@@ -44,7 +44,7 @@ Computer Science and Engineering student specializing in AI & ML, focused on alg
 
 ### Tech Stack
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,bash,git,github,linux,vscode,pytorch,opencv,sklearn,mysql,matlab" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,linux,pytorch,opencv,sklearn,mysql,matlab,numpy,pandas" />
 
 | Category | Technologies |
 |---|---|
