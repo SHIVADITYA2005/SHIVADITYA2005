@@ -44,11 +44,11 @@ Computer Science and Engineering student specializing in AI & ML, focused on alg
 
 ### Tech Stack
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,bash,git,github,linux,vscode,pytorch,opencv,sklearn,mysql" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,bash,git,github,linux,vscode,pytorch,opencv,sklearn,mysql,matlab" />
 
 | Category | Technologies |
 |---|---|
-| **Languages** | C, C++, Python, Java, Bash |
+| **Languages** | C, C++, Python, Java, Bash,MATLAB |
 | **ML / AI** | PyTorch, Scikit-learn |
 | **Computer Vision** | OpenCV |
 | **Databases** | MySQL |
